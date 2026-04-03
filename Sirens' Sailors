@@ -737,7 +737,7 @@ img[src$="/images/lockred.png"] {
 }
 
 .comment .icon .visitor {
-  background: url("https://64.media.tumblr.com/ade703509bba7b4e7979142833c8bb2c/0ccdd2e2690b16c2-fd/s250x400/6da8fe543b80d72363b74afadd029493faec927c.gif");
+  background: url("https://64.media.tumblr.com/78f4ab2975528b8f2809a0f790149bec/1656d51a9a410fb8-56/s250x400/877d45272f39b6c88c5c455be6546884e6bec9f1.gif");
   background-size: contain;
   background-repeat: no-repeat;
 }
