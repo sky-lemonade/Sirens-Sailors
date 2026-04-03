@@ -1097,7 +1097,7 @@ ul.tags li.warnings:first-child:before {
   display: inline-block;
   width: 16px;
   height: 16px;
-  background: url("https://64.media.tumblr.com/57d3d6113fc078facb15a05eb22776d5/0f9fa277a4073b3f-84/s500x750/e24a036686703010d81f0da9394f27f669e86cf6.gif") no-repeat center;
+  background: url("https://64.media.tumblr.com/e87bf8d83afd34845c9047ff6df79bee/1e732aad340ad7d6-fc/s1280x1920/51eb7b17adc2ce0dce628708af3cd93aeae49257.png") no-repeat center;
   background-size: contain;
   background-position: center 2px;
 }
