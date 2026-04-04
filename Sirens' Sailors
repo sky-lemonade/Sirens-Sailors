@@ -840,7 +840,7 @@ form dt {
 form .notice,
 ul.notes,
 .caution {
-  color: #DAECFF !important;
+  color: #2596be !important;
   background: #4f7f95;
   border-color: #88d0db;
   box-shadow: none;
