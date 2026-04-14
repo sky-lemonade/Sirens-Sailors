@@ -755,7 +755,7 @@ img[src$="/images/lockred.png"] {
 p.kudos {
   padding-left: 6em;
   background: url("https://64.media.tumblr.com/c384ef616a9b99d86847b4baf067bc4b/0f9fa277a4073b3f-e8/s640x960/98d1e059e8fd1984a1e74679a29764cd9ee1c1e4.gif");
-  background-size: 75px 100px;
+  background-size: 75px 110px;
   background-position: top left;
   background-repeat: repeat-y;
   min-height: 112px;
