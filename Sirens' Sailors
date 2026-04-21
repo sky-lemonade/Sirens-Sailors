@@ -1241,6 +1241,7 @@ li.blurb .tags {
   margin-right: 5px;
   overflow: hidden;
   float: left;
+  background: #eeeee4;
 }
 
 .muted.notice {
