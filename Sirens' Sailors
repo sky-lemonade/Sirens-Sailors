@@ -1054,6 +1054,7 @@ dl.meta,
 
 #workskin {
   text-align: justify;
+  background: #ece9dc;
 }
 
 #workskin h2 {
